@@ -1,0 +1,11 @@
+{
+  "total_shipments": 6000,
+  "overall_otif_rate_pct": 58.2,
+  "overall_avg_delay_days": -0.03,
+  "best_carrier_by_otif": "Carrier A",
+  "worst_carrier_by_otif": "Carrier C",
+  "highest_variance_supplier": "Supplier-04",
+  "highest_variance_supplier_cv_pct": 61.0,
+  "bottleneck_route_carrier_combos_flagged": 55,
+  "bottleneck_share_of_shipments_pct": 34.0
+}

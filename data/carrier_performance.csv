@@ -1,0 +1,5 @@
+carrier,shipments,on_time_rate,in_full_rate,otif_rate,avg_delay_days,avg_cost_usd
+Carrier A,1821,0.713,0.946,0.678,-0.018,479.612
+Carrier B,1817,0.649,0.879,0.57,-0.018,410.364
+Carrier D,1026,0.639,0.855,0.548,-0.038,389.638
+Carrier C,1336,0.6,0.811,0.491,-0.042,349.801

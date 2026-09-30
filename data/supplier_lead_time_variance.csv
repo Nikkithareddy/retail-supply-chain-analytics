@@ -1,0 +1,13 @@
+supplier,shipments,mean_transit_days,std_transit_days,otif_rate,cv_pct
+Supplier-04,501,2.31,1.41,0.47,61.0
+Supplier-08,518,3.3,1.8,0.5,54.5
+Supplier-02,480,5.16,2.15,0.54,41.7
+Supplier-09,490,2.06,0.77,0.59,37.4
+Supplier-03,488,4.92,1.83,0.59,37.2
+Supplier-11,520,7.45,2.54,0.57,34.1
+Supplier-07,544,8.11,2.72,0.6,33.5
+Supplier-05,487,8.85,2.75,0.56,31.1
+Supplier-12,495,4.53,1.35,0.55,29.8
+Supplier-10,502,4.28,1.06,0.64,24.8
+Supplier-01,489,3.31,0.68,0.64,20.5
+Supplier-06,486,7.23,1.08,0.72,14.9
